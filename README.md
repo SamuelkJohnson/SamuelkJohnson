@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/Samuel
 [instagram]: https://www.instagram.com/Samuel
-[linkedin]: (https://www.linkedin.com/in/samuel-k-johnson-05b8251a9/)https://www.linkedin.com/in/samuel-k-johnson-05b8251a9/
+[linkedin]: https://www.linkedin.com/in/samuel-k-johnson-05b8251a9
