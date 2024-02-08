@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/SamuelJohnson
+[twitter]: https://twitter.com/@Bigsam232
 [instagram]: https://www.instagram.com/im_famous_skj
 [linkedin]: https://www.linkedin.com/in/samuel-k-johnson-05b8251a9
