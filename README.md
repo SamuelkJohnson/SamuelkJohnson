@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/SamuelkJohnson/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/SamuelkJohnson/configure-ad)
-- [File Shares and Permissions in Azure Virtual Machines](https://github.com/samuelkJohnson/azure-Virtual-Machines)
+- [File-Shares-and-Permissions-in-Azure-Virtual-Machines](https://github.com/samuelkJohnson/File-Shares-and-Permissions-in-Azure-Virtual-Machines)
 
 <h2>🤳Connect with me:</h2>
 
